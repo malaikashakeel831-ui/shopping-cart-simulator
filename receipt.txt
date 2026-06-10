@@ -1,0 +1,9 @@
+===== RECEIPT =====
+2 | Bread | Price: 50 | Qty: 1 | Subtotal: 50 | Discount: -2.5 (5%)
+-------------------
+Subtotal: 50
+Discounts Applied: -2.5
+Amount after Discount: 47.5
+Tax (10%): 4.75
+FINAL TOTAL: 52.25
+Thanks for shopping!
